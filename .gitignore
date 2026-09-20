@@ -1,0 +1,16 @@
+# --- Archivos de Datos (Mantiene tu portafolio limpio) ---
+*.xlsx
+*.xls
+*.csv
+*.json
+
+# --- Configuraciones y Llaves de Seguridad (Crucial para el futuro) ---
+.env
+secret_key.txt
+config.ini
+credentials.json
+*.pem
+
+# --- Archivos temporales de Jupyter y Google Colab ---
+.ipynb_checkpoints/
+.virtualenv/
